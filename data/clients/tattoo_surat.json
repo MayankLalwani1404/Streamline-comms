@@ -1,0 +1,17 @@
+{
+  "client_id": "tattoo_surat",
+  "display_name": "InkVibe Tattoo Studio Surat",
+  "industry": "tattoo_parlour",
+  "kb_files": [
+    "C:/Streamline-comms/data/tattoo_surat.txt"
+  ],
+  "default_language": "hi",
+  "welcome_message": "Namaste! InkVibe Tattoo Studio Surat mein aapka swagat hai. Kaise madad kar sakta hoon?",
+  "lead_keywords": ["booking", "appointment", "tattoo", "consultation", "price", "rate", "time"],
+  "opening_hours": "Mon–Sun: 11 AM – 10 PM",
+  "contact": {
+    "phone": "+91 99887 66554",
+    "address": "City Light Road, Surat",
+    "instagram": "@inkvibe_surat"
+  }
+}

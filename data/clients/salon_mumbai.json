@@ -1,0 +1,21 @@
+{
+  "client_id": "salon_mumbai",
+  "display_name": "Style Salon Mumbai",
+  "channels": ["whatsapp","instagram"],
+  "persona": {
+    "tone": "professional",
+    "language_preference": "auto",
+    "response_length": "concise",
+    "do_not_say": ["I am not sure"],
+    "allowed_actions": ["provide_info","book_appointment","capture_lead"]
+  },
+  "lead_rules": {
+    "lead_definition": "phone_and_intent",
+    "free_leads_per_month": 250,
+    "overage_price_per_lead": 10
+  },
+  "kb_files": [
+    "C:/Streamline-comms/data/salon_faqs.txt"
+  ],
+  "system_prompt_overrides": "You are Style Salon's assistant. For bookings, always ask preferred date/time and offer available slots."
+}

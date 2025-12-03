@@ -1,0 +1,11 @@
+SERVICES:
+Haircut - ₹499
+Hair Colour - ₹999
+Manicure - ₹299
+
+HOURS:
+Mon-Fri: 10:00 AM - 8:00 PM
+Sat-Sun: 10:00 AM - 9:00 PM
+
+CONTACT:
+Phone: +91 98765 11111

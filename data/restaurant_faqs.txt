@@ -1,0 +1,16 @@
+﻿MENU:
+Margherita Pizza - ₹299
+Paneer Tikka Pizza - ₹349
+Vegan Salad - ₹199
+
+HOURS:
+We are open from 9:00 AM to 11:00 PM every day.
+
+SPECIAL:
+Today's special is Paneer Tikka Pizza.
+
+ADDRESS:
+123 MG Road, Pune.
+
+CONTACT:
+Phone: +91 98765 43210
